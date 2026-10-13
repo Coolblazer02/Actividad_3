@@ -1,0 +1,17 @@
+
+p {
+    color: #555555;
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+.favorito {
+    color: #198754;
+    font-weight: bold;
+}
+
+#titulo-principal {
+    color: #2563eb;
+    text-align: center;
+    font-size: 36px;
+}
